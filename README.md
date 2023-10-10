@@ -24,7 +24,7 @@ Clear Visuals: The dashboard provides clear and informative visual representatio
 Data-Driven Decisions: Use the insights gained from this dashboard to make data-driven decisions that can enhance our sales strategies and customer engagement.
 
 **How to Use**
-How to Use
+
 1.Download the Excel file from the provided link in the repository.
 
 2.Open the dashboard and start exploring the data by clicking on different tabs and interactive elements.
